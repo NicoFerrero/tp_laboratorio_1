@@ -46,7 +46,7 @@ char ValidarCaracter(char caracter);
 /**
 *\brief Valida el numero a calcular el factorial, lo calcula e imprime el resultado
 *\param num1 Es el numero a calcular el factorial
-*\return No devuelve ningun valor, imprime por pantalla el resultado del factorial
+*\return Void. No devuelve ningun valor, imprime por pantalla el resultado del factorial
 *
 */
 void ValidarFactorial(float num1);
@@ -78,19 +78,11 @@ float Restar(float num1, float num2);
  */
 float Multiplicar(float num1, float num2);
 
-/** \brief Realiza la division de dos numeros y devuelve el resultado
- *
- * \param num1 Es el primer operando de la division
- * \param num2 Es el segundo operando de la division
- * \return Devuelve la division de los dos numeros
- *
- */
-
 /**
-*\brief Realiza la division de dos numeros y devuelve el resultado
+*\brief Realiza la division de dos numeros y muestra por pantalla el resultado
 *\param num1 Es el numero a dividir
 *\param num2 Es el numero por el cual se va a dividir, este nuero debe ser distinto a 0
-*\return No devuelve ningun valor, imprime por pantalla el resultado de la division
+*\return Void. No devuelve ningun valor, imprime por pantalla el resultado de la division
 *
 */
 void Dividir(float num1, float num2);
