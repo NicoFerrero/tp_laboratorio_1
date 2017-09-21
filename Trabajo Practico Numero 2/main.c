@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "funciones.h"
 #include "input.h"
-#define TAM 5
+#define TAM 20
 
 
 int main()
