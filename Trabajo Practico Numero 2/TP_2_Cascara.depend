@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1505484670 source:e:\tp nº2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1505484224 e:\tp nº2\funciones.h
+
+1505484616 source:e:\tp nº2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1506032641 source:c:\users\nico\desktop\tp nº2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+	"funciones.h"
+
+1506032541 c:\users\nico\desktop\tp nº2\funciones.h
+
+1506032494 source:c:\users\nico\desktop\tp nº2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"input.h"
+
+1506032075 source:c:\users\nico\desktop\tp nº2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"input.h"
+
+1506030052 c:\users\nico\desktop\tp nº2\input.h
+
