@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1508245830 source:c:\users\nico\desktop\tp nº3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508246674 c:\users\nico\desktop\tp nº3\funciones.h
+
+1507936333 source:c:\users\nico\desktop\tp nº3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508723963 source:c:\users\nico\desktop\tp3 prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508614590 c:\users\nico\desktop\tp3 prueba\funciones.h
+
+1508723697 source:c:\users\nico\desktop\tp3 prueba\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
